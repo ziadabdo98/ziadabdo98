@@ -15,6 +15,7 @@ I am an experienced full-stack developer with 1.5 years of expertise in SQL, PHP
 **Projects I am proud of**
 - [Cinemat](https://cinemat.zeiadmohamed.dev/) (github link [here](https://github.com/ziadabdo98/Cinemat)).
 - [Kanaba-eg](https://www.kanaba-eg.com/)
+- [Arithmato](https://arithmato.com/)
 - See all my projects [here.](https://github.com/ziadabdo98?tab=repositories)
 
 <br>
