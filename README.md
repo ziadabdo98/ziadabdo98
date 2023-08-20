@@ -5,7 +5,7 @@
 # Zeiad Mohamed
 **`Software Engineer`**
 
-I am an experienced full-stack developer with 1.5 years of expertise in SQL, PHP, Laravel, HTML, CSS, and ReactJs, capable of developing both frontend and backend components for web applications.
+I am an experienced full-stack developer with 1 year of expertise in SQL, PHP, Laravel, HTML, CSS, and ReactJs, capable of developing both frontend and backend components for web applications.
 
 - 🌱 I am currently learning .NET and reactjs.
 - 🍕 Pizza fixes all my bugs.
