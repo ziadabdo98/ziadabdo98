@@ -5,7 +5,7 @@
 # Zeiad Mohamed
 **`Software Engineer`**
 
-I am an experienced full-stack developer with 1 year of expertise in SQL, PHP, Laravel, HTML, CSS, and ReactJs, capable of developing both frontend and backend components for web applications.
+I'm Zeiad Mohamed, a full-stack software developer living in Vilnius, Lithuania. I love building back-ends, front-ends and everything in between!
 
 - 🌱 I am currently learning .NET and reactjs.
 - 🍕 Pizza fixes all my bugs.
@@ -14,7 +14,7 @@ I am an experienced full-stack developer with 1 year of expertise in SQL, PHP, L
 
 **Projects I am proud of**
 - [Cinemat](https://cinemat.zeiadmohamed.dev/) (github link [here](https://github.com/ziadabdo98/Cinemat)).
-- [Kanaba-eg](https://www.kanaba-eg.com/)
+- [Kanaba-eg](https://www.kanaba-eg.zeiadmohamed.dev/)
 - [Arithmato](https://arithmato.com/)
 - See all my projects [here.](https://github.com/ziadabdo98?tab=repositories)
 
@@ -41,13 +41,6 @@ I am an experienced full-stack developer with 1 year of expertise in SQL, PHP, L
 
 <br>
 <br>
-
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziadabdo98&count_private=true&show_icons=true&hide=stars,prs&theme=dracula&hide_border=true&custom_title=Zeiad+Mohamed's+GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 <br>
 
 ## Don't be a stranger let's connect
